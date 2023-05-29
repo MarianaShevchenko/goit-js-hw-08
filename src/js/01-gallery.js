@@ -29,7 +29,3 @@ const lightBox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
 });
-// const listItems = document.querySelectorAll('.gallery li');
-// listItems.forEach(function (item) {
-//   item.style.listStyleType = 'none';
-// });
